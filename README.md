@@ -49,7 +49,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Installation
 #### Deploy on Render
 **BEFORE YOU DEPLOY ON RENDER, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.rendercdn.com/deploy/button.svg)](https://render.com/deploy)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://render.com/deploy)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
